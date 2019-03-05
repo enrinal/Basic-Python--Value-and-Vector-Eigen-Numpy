@@ -1,6 +1,6 @@
 # Basic Python, Value and Vector Eigen Numpy
 
-Tentukan 10 digit angka dari jumlah angka-angka berikut ini (100 baris 50 digit angka setiap barisnya):
+1. Tentukan 10 digit angka dari jumlah angka-angka berikut ini (100 baris 50 digit angka setiap barisnya):
 
 37107287533902102798797998220837590246510135740250
 46376937677490009712648124896970078050417018260538
@@ -103,5 +103,7 @@ Tentukan 10 digit angka dari jumlah angka-angka berikut ini (100 baris 50 digit 
 20849603980134001723930671666823555245252804609722
 53503534226472524250874054075591789781264330331690
 
- 
+2. Menentukan Nilai eigen dan vektor eigen
+
+
 
